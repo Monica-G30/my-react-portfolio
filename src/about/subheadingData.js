@@ -34,9 +34,9 @@ const subheadingData = {
       content: (
         <>
           <p>
-            I hold a Diploma in Medical Engineering, where I gained hands-on
-            experience working with medical equipment, troubleshooting technical
-            issues, and ensuring reliable healthcare technology.
+            I gained hands-on experience working with medical equipment,
+            troubleshooting technical issues, and ensuring reliable healthcare
+            technology.
           </p>
         </>
       ),
