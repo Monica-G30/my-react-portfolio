@@ -52,7 +52,7 @@ export default class SkillsMenu extends Component {
           <div
             key={index}
             className={classNames("skill-item", {
-              activeSkill: activeMenuItem === +1,
+              activeSkill: activeMenuItem === index + 1,
             })}
             onClick={() => this.handleMenuItemClick(index + 1)}
           >
