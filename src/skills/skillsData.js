@@ -24,10 +24,6 @@ const skills = {
       title: "Figma",
       level: 3,
     },
-    {
-      title: "Node.js",
-      level: 1,
-    },
   ],
   2: [
     {
