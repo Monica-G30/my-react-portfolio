@@ -10,15 +10,15 @@ const skills = {
     },
     {
       title: "JavaScript",
-      level: 4,
-    },
-    {
-      title: "Tailwind Css",
-      level: 1,
+      level: 3,
     },
     {
       title: "React",
       level: 4,
+    },
+    {
+      title: "Tailwind css",
+      level: 1,
     },
     {
       title: "Figma",
